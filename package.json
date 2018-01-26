@@ -1,0 +1,22 @@
+{
+  "name": "drones-brigade",
+  "version": "1.0.0",
+  "description": "",
+  "main": "brigade.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morsh/drones-brigade.git"
+  },
+  "author": "mor shemesh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/morsh/drones-brigade/issues"
+  },
+  "homepage": "https://github.com/morsh/drones-brigade#readme",
+  "dependencies": {
+    "brigadier": "^0.5.2"
+  }
+}
